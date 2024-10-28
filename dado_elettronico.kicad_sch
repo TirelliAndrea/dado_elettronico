@@ -2033,7 +2033,7 @@
     (property "Value" "2N2219" (at 87.63 77.47 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_TO_SOT_THT:TO-39-3" (at 87.63 78.105 0)
+    (property "Footprint" "Library:TO92_S9014_127P510H650-3" (at 87.63 78.105 0)
       (effects (font (size 1.27 1.27) italic) (justify left) hide)
     )
     (property "Datasheet" "http://www.onsemi.com/pub_link/Collateral/2N2219-D.PDF" (at 82.55 76.2 0)
